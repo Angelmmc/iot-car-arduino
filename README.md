@@ -29,7 +29,7 @@ This repository contains two Arduino programs for an IoT-based robotic car:
 4. Upload to your ESP32.
 5. Open Serial Monitor to verify sensor readings and WiFi status.
 
-## 🖼️ Pirctures
+## 🖼️ Pictures
 
 <img src="https://github.com/Angelmmc/iot-car-arduino/blob/main/assets/car-front.jpg" width="300" />
 <img src="https://github.com/Angelmmc/iot-car-arduino/blob/main/assets/car-rear.jpg" width="300" />
