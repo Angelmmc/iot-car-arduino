@@ -41,6 +41,10 @@ This repository contains two Arduino programs for an IoT-based robotic car:
 <img src="https://github.com/Angelmmc/iot-car-arduino/blob/main/assets/car-rear.jpg" width="300" />
 <img src="https://github.com/Angelmmc/iot-car-arduino/blob/main/assets/car-up.jpg" width="300" />
 
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
 ## Related
 
 Check out the related repositories for my iot-car project.
