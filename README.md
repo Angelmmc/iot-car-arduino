@@ -45,6 +45,6 @@ This repository contains two Arduino programs for an IoT-based robotic car:
 
 Check out the related repositories for my iot-car project.
 
-[![iot-car-webapp](https://img.shields.io/badge/iot__car-webapp-98FB98?logo=github)](https://github.com/Angelmmc/iot-car-webapp)
-[![iot-car-frontend-mobile](https://img.shields.io/badge/iot__car-frontend--mobile-FF4500?logo=github)](https://github.com/Angelmmc/iot-car-frontend-mobile)
+[![iot-car-frontend-mobile](https://img.shields.io/badge/iot__car-frontend--mobile-E76F51?logo=github)](https://github.com/Angelmmc/iot-car-frontend-mobile)
+[![iot-car-webapp](https://img.shields.io/badge/iot__car-webapp-05F140?logo=github)](https://github.com/Angelmmc/iot-car-webapp)
 
